@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Jotaro Yano
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5327--9455-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5327-9455)
 
 I’m an independent researcher exploring **privacy-preserving** and **post-quantum secure distributed cryptographic systems**, bridging theory and practice (focus: **ZK, PQC**).  
 I aim to design cryptographic systems that remain both **practical** and **secure** in the post-quantum era.
@@ -10,9 +11,9 @@ I aim to design cryptographic systems that remain both **practical** and **secur
 
 
 ## ✍️ Recent work
-- [Full L1 On-Chain ZK-STARK+PQC Verification on Solana: A Measurement Study](https://eprint.iacr.org/2025/1741)  
-  *(IACR ePrint 2025/1741, DOI: 10.5281/ZENODO.17186799)*
-
+- *Full L1 On-Chain ZK-STARK+PQC Verification on Solana: A Measurement Study*  
+  [📄 IACR ePrint 2025/1741](https://eprint.iacr.org/2025/1741) ・ [🔗 GitHub Repository](https://github.com/pqzk-labs/solana-pqzk-fullchain)    
+*(DOI: 10.5281/ZENODO.17186799)*
 
 ## 🛠️ Tech stack
 - **High-performance crypto**: Rust 🦀, C/C++  
@@ -24,6 +25,8 @@ I aim to design cryptographic systems that remain both **practical** and **secur
 ## 👨‍💻 Background
 After years as a freelance engineer with hands-on experience in distributed systems, I shifted my focus to independent research on **cryptography** and **blockchain**.
 
+I also run **[PQZK Labs](https://github.com/pqzk-labs)** (@pqzk-labs), an organization dedicated to repositories on **Zero-Knowledge proofs** and **Post-Quantum Cryptography**.  
+Other projects and explorations are published here on my **personal repositories**.
 
 ## 🤝 Let’s connect
 Always open to collaboration and feedback — feel free to reach out or open an issue/discussion!
