@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Jotaro Yano
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5327--9455-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5327-9455)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=OgBu2TEAAAAJ)
 
 I’m an independent researcher exploring **privacy-preserving** and **post-quantum secure distributed cryptographic systems**, bridging theory and practice (focus: **ZK, PQC**).  
 I aim to design cryptographic systems that remain both **practical** and **secure** in the post-quantum era.
