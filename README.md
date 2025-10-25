@@ -16,9 +16,12 @@ I aim to design cryptographic systems that remain both **practical** and **secur
   [📄 IACR ePrint 2025/1741](https://eprint.iacr.org/2025/1741) ・ [🔗 GitHub Repository](https://github.com/pqzk-labs/solana-pqzk-fullchain)    
 *(DOI: 10.5281/ZENODO.17186799)*
 
-- *ZK Coprocessor Bridge* 🛡️ — **🚧 In Development** *(built for the Solana Cypherpunk Hackathon)*  
-  *Privacy coprocessor for Solana: bridge Solana to Aztec private functions via Ethereum using Wormhole VAAs — with finality guarantees and replay‑safe L1→L2 queues.*  
-  [🔗 GitHub Repository](https://github.com/pqzk-labs/zk-coprocessor-bridge) ・ [🌐 Project Page](https://arena.colosseum.org/projects/explore/zk-coprocessor-bridge)
+- *ZK Coprocessor Bridge: Replay-Safe Private Execution from Solana to Aztec via Wormhole*  
+  [📄 Zenodo Preprint](https://doi.org/10.5281/zenodo.17409586) ・ [🔗 GitHub Repository](https://github.com/pqzk-labs/zk-coprocessor-bridge)    
+*(DOI: 10.5281/zenodo.17409586)*
+
+- *Zero-Knowledge Extensions on Solana: A Theory of ZK Architecture*  
+  [📄 Zenodo Preprint](https://doi.org/10.5281/zenodo.17428980) ・ *(DOI: 10.5281/zenodo.17428980)*
 
 
 ## 🛠️ Tech stack
