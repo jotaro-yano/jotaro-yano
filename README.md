@@ -32,7 +32,7 @@ I aim to design cryptographic systems that remain both **practical** and **secur
 
 
 ## 👨‍💻 Background
-After years as a freelance engineer, I shifted my focus to independent research on **cryptography** and **blockchain**.
+After working as a freelance engineer, I shifted my focus to independent research on **cryptography** and **blockchain**.
 
 I also run **[PQZK Labs](https://github.com/pqzk-labs)** (@pqzk-labs), an organization dedicated to repositories on **Zero-Knowledge proofs** and **Post-Quantum Cryptography**.  
 Other projects and explorations will be published here on my **personal repositories**.
