@@ -21,7 +21,7 @@ I aim to design cryptographic systems that remain both **practical** and **secur
 [DOI: 10.5281/zenodo.17409586](https://doi.org/10.5281/zenodo.17409586)
 
 - *Zero-Knowledge Extensions on Solana: A Theory of ZK Architecture*  
-  [📄 Zenodo Preprint](https://doi.org/10.5281/zenodo.17428980) ・ [DOI: 10.5281/zenodo.17428980](https://doi.org/10.5281/zenodo.17428980)
+  [📄 Zenodo 17428981](https://zenodo.org/records/17428981)・ [DOI: 10.5281/zenodo.17428980](https://doi.org/10.5281/zenodo.17428980)
 
 
 ## 🛠️ Tech stack
