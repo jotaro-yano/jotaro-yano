@@ -4,6 +4,9 @@
 
 I’m an independent researcher and engineer specializing in cryptography and distributed systems, exploring the intersection of theory, security, and practical implementation. (🔬 cs.CR/DC)  
 
+- [**ORCID**](https://orcid.org/0009-0003-5327-9455) — [0009-0003-5327-9455](https://orcid.org/0009-0003-5327-9455)  
+- [**Google Scholar**](https://scholar.google.com/citations?user=OgBu2TEAAAAJ) — [scholar.google.com/citations?user=OgBu2TEAAAAJ](https://scholar.google.com/citations?user=OgBu2TEAAAAJ)
+
 ## 📚 Research areas
 - **Theory**: Zero-Knowledge Proofs, Post-Quantum Cryptography, ORAM, FHE  
 - **Systems**: Blockchain validator clients, Consensus (PoS/PoW), On-chain verification  
