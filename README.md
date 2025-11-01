@@ -32,10 +32,9 @@ I’m an independent researcher and engineer specializing in cryptography and di
 
 
 ## 🧩 Background
-After working as a freelance engineer, I shifted my focus to independent research on **cryptography** and **blockchain**.
-
-I also run **[PQZK Labs](https://github.com/pqzk-labs)** (@pqzk-labs), an organization dedicated to repositories on **Zero-Knowledge proofs** and **Post-Quantum Cryptography**.  
-Other projects and explorations will be published here on my **personal repositories**.
+After working as a freelance engineer, I shifted my focus to independent research on cryptography and blockchain.  
+I also run **[PQZK Labs](https://github.com/pqzk-labs)** (@pqzk-labs), an organization dedicated to repositories on Zero-Knowledge proofs and Post-Quantum Cryptography.  
+Other projects and explorations will be published here on my personal repositories.
 
 ## 🪶 Academic Exchange
 Open to scholarly exchange and discussion on cryptography and related fields.
