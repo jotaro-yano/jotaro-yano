@@ -14,14 +14,14 @@ I aim to design cryptographic systems that remain both **practical** and **secur
 ## ✍️ Recent work
 - *Full L1 On-Chain ZK-STARK+PQC Verification on Solana: A Measurement Study*  
   [📄 IACR ePrint 2025/1741](https://eprint.iacr.org/2025/1741) ・ [🔗 GitHub Repository](https://github.com/pqzk-labs/solana-pqzk-fullchain)    
-*(DOI: 10.5281/ZENODO.17186799)*
+[DOI: 10.5281/ZENODO.17186799](https://doi.org/10.5281/zenodo.17186799)
 
 - *ZK Coprocessor Bridge: Replay-Safe Private Execution from Solana to Aztec via Wormhole*  
-  [📄 Zenodo Preprint](https://doi.org/10.5281/zenodo.17409586) ・ [🔗 GitHub Repository](https://github.com/pqzk-labs/zk-coprocessor-bridge)    
-*(DOI: 10.5281/zenodo.17409586)*
+  [📄 arXiv 2510.22536](https://arxiv.org/abs/2510.22536) ・ [🔗 GitHub Repository](https://github.com/pqzk-labs/zk-coprocessor-bridge)    
+[DOI: 10.5281/zenodo.17409586](https://doi.org/10.5281/zenodo.17409586)
 
 - *Zero-Knowledge Extensions on Solana: A Theory of ZK Architecture*  
-  [📄 Zenodo Preprint](https://doi.org/10.5281/zenodo.17428980) ・ *(DOI: 10.5281/zenodo.17428980)*
+  [📄 Zenodo Preprint](https://doi.org/10.5281/zenodo.17428980) ・ [DOI: 10.5281/zenodo.17428980](https://doi.org/10.5281/zenodo.17428980)
 
 
 ## 🛠️ Tech stack
