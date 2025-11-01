@@ -12,17 +12,19 @@ I aim to design cryptographic systems that remain both **practical** and **secur
 
 
 ## ✍️ Recent work
-- *Full L1 On-Chain ZK-STARK+PQC Verification on Solana: A Measurement Study*  
+- Full L1 On-Chain ZK-STARK+PQC Verification on Solana: A Measurement Study  
   [📄 IACR ePrint 2025/1741](https://eprint.iacr.org/2025/1741) ・ [🔗 GitHub Repository](https://github.com/pqzk-labs/solana-pqzk-fullchain)    
 [DOI: 10.5281/ZENODO.17186799](https://doi.org/10.5281/zenodo.17186799)
 
-- *ZK Coprocessor Bridge: Replay-Safe Private Execution from Solana to Aztec via Wormhole*  
+- ZK Coprocessor Bridge: Replay-Safe Private Execution from Solana to Aztec via Wormhole  
   [📄 arXiv 2510.22536](https://arxiv.org/abs/2510.22536) ・ [🔗 GitHub Repository](https://github.com/pqzk-labs/zk-coprocessor-bridge)    
 [DOI: 10.5281/zenodo.17409586](https://doi.org/10.5281/zenodo.17409586)
 
-- *Zero-Knowledge Extensions on Solana: A Theory of ZK Architecture*  
+- Zero-Knowledge Extensions on Solana: A Theory of ZK Architecture  
   [📄 Zenodo 17428981](https://zenodo.org/records/17428981)・ [DOI: 10.5281/zenodo.17428980](https://doi.org/10.5281/zenodo.17428980)
 
+- ZK Coprocessor Bridge — Solana Cypherpunk Hackathon  
+  [🌐 Project Page](https://arena.colosseum.org/projects/explore/zk-coprocessor-bridge)
 
 ## 🛠️ Tech stack
 - **High-performance crypto**: Rust 🦀, C/C++  
