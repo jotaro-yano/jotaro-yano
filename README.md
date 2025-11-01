@@ -1,10 +1,8 @@
-# 👋 Hi, I’m Jotaro Yano
+# 👋 Hello, I’m Jotaro Yano.
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5327--9455-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5327-9455)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=OgBu2TEAAAAJ)
 
-I’m an independent researcher exploring **privacy-preserving** and **post-quantum secure distributed cryptographic systems**, bridging theory and practice (focus: **ZK, PQC**).  
-I aim to design cryptographic systems that remain both **practical** and **secure** in the post-quantum era.
-
+I’m an independent researcher and engineer specializing in cryptography and distributed systems, exploring the intersection of theory, security, and practical implementation. (🔬 cs.CR/DC)  
 
 ## 📚 Research areas
 - **Theory**: Zero-Knowledge Proofs, Post-Quantum Cryptography, ORAM, FHE  
@@ -26,18 +24,18 @@ I aim to design cryptographic systems that remain both **practical** and **secur
 - ZK Coprocessor Bridge — Solana Cypherpunk Hackathon  
   [🌐 Project Page](https://arena.colosseum.org/projects/explore/zk-coprocessor-bridge)
 
-## 🛠️ Tech stack
+## ⚙️ Tech stack
 - **High-performance crypto**: Rust 🦀, C/C++  
 - **Smart contracts / ZK DSLs**: Solidity, Noir  
 - **Prototyping / tools**: TypeScript (Node.js), JavaScript  
 - **Past experience**: PHP, Python, Java, Ruby  
 
 
-## 👨‍💻 Background
+## 🧩 Background
 After working as a freelance engineer, I shifted my focus to independent research on **cryptography** and **blockchain**.
 
 I also run **[PQZK Labs](https://github.com/pqzk-labs)** (@pqzk-labs), an organization dedicated to repositories on **Zero-Knowledge proofs** and **Post-Quantum Cryptography**.  
 Other projects and explorations will be published here on my **personal repositories**.
 
-## 🤝 Let’s connect
-Always open to collaboration and feedback — feel free to reach out or open an issue/discussion!
+## 🪶 Academic Exchange
+Open to scholarly exchange and discussion on cryptography and related fields.
