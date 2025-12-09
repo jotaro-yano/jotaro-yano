@@ -7,10 +7,13 @@ I’m an independent researcher and engineer specializing in cryptography and di
 - [**ORCID**](https://orcid.org/0009-0003-5327-9455) — [0009-0003-5327-9455](https://orcid.org/0009-0003-5327-9455)  
 - [**Google Scholar**](https://scholar.google.com/citations?user=OgBu2TEAAAAJ) — [scholar.google.com/citations?user=OgBu2TEAAAAJ](https://scholar.google.com/citations?user=OgBu2TEAAAAJ)
 
+## 🏛️ Memberships
+- **International Association for Cryptologic Research (IACR)** — Member (2026–)  
+- **USENIX Association** — Advocate Member (2025–2026)
+
 ## 📚 Research areas
 - **Theory**: Zero-Knowledge Proofs, Post-Quantum Cryptography, ORAM, FHE  
 - **Systems**: Blockchain validator clients, Consensus (PoS/PoW), On-chain verification  
-
 
 ## ✍️ Recent work
 - Full L1 On-Chain ZK-STARK+PQC Verification on Solana: A Measurement Study  
@@ -32,7 +35,6 @@ I’m an independent researcher and engineer specializing in cryptography and di
 - **Smart contracts / ZK DSLs**: Solidity, Noir  
 - **Prototyping / tools**: TypeScript (Node.js), JavaScript  
 - **Past experience**: PHP, Python, Java, Ruby  
-
 
 ## 🧩 Background
 After working as a freelance engineer, I shifted my focus to independent research on cryptography and blockchain.  
