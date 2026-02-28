@@ -36,6 +36,9 @@ I’m an independent researcher and engineer specializing in cryptography and di
 - **Prototyping / tools**: TypeScript (Node.js), JavaScript  
 - **Past experience**: PHP, Python, Java, Ruby  
 
+## 📜 Certifications
+- Fundamental Information Technology Engineer Examination (FE) — IPA, Japan
+
 ## 🧩 Background
 After working as a freelance engineer, I shifted my focus to independent research on cryptography and blockchain.  
 I also run **[PQZK Labs](https://github.com/pqzk-labs)** (@pqzk-labs), an organization dedicated to repositories on Zero-Knowledge proofs and Post-Quantum Cryptography.  
