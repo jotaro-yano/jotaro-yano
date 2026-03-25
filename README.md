@@ -37,6 +37,7 @@ I’m an independent researcher and engineer specializing in cryptography and di
 - **Past experience**: PHP, Python, Java, Ruby  
 
 ## 📜 Certifications
+- CompTIA Security+ — CompTIA
 - Fundamental Information Technology Engineer Examination (FE) — IPA, Japan
 
 ## 🧩 Background
